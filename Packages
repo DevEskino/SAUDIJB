@@ -1,0 +1,19 @@
+
+Package: com.deveskino.axon
+Name: DLEasy Cracked
+Version: 2.7.4
+Maintainer: AhmedBafkir 
+Author: AhmedBafkir 
+Description: https://deveskino.github.io/SAUDIJB/depiction.php?file=dleasy
+Section: Tweaks
+Installed-Size: 508
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.ouraigua.jodebox
+Conflicts: me.pulandres.dleasy
+Filename: debs/DLEasyCracked.deb
+Depiction: https://deveskino.github.io/SAUDIJB/
+Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
+Size: 125674
+MD5Sum: af2e1a95e9e4f8935a308b54cb6562ba
+SHA1: eead7170cba8f7ffe0bb2b71977941948a850243
+SHA256: 3dba859f95c9f0d9a7d1203e4c06a3660e617d62257bb222b673e661ba5b867
