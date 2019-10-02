@@ -1,0 +1,18 @@
+Package: com.user.dleasy
+Name: DLEasy
+Version: 2.7.4
+Maintainer: AhmedBafkir
+Author: AhmedBafkir
+Description: Priority Hub for iOS 11 and 12 (If you can't see the depiction, please use Cydia or Zebra).
+Section: Tweaks
+Installed-Size: 9412
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 12.4)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: debs/me.deveskino.dleasy _2.7.4_iphoneos-arm.deb
+Depiction: https://user.github.io/reponame/
+Icon: file:///Library/PreferenceBundles/ DLEasy.bundle/icon@3x.png
+Size: 3058916
+MD5Sum: af2e1a95e9e4f8935a308b54cb6562ba
+SHA1: eead7170cba8f7ffe0bb2b71977941948a850243
+SHA256: 3dba859f95c9f0d9a7d1203e4c06a3660ea617d62257bb222b673e661ba5b867
